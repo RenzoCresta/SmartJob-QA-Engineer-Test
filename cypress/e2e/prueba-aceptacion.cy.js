@@ -11,5 +11,3 @@ describe('CASOS DE PRUEBA DE ACEPTACIÓN', () => {
   TC4.fill_form();
   TC5.fill_form();
 });
-
-
