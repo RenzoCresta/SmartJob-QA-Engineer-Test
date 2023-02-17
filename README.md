@@ -34,7 +34,7 @@ Una vez se haya clonado el repositorio e instalado correctamente el entorno de p
 
 Para ello, haciendo uso de la misma terminal o línea de comandos, sin cambiar de directorio, habrá que ejecutar el comando "npx cypress open". Esto ejecutará la interfaz gráfica de **CYPRESS**, donde el usuario podrá seleccionar su Navegador Web de preferencia. Seguido podrá seleccionar el Test Suite y Casos de Prueba a ejecutar, para posteriormente observar en tiempo real la compilacion y ejecución de los scripts, pudiendo consultar en cualquier momento el paso a paso de las pruebas y los resultados obtenidos.
 
-Por último, si el usuario desea visualizar de manera más sencilla y didáctica los resultados de las pruebas contenidas en el Test Suit, podrá ejecutar en su terminal el comando "npm run cypress". Esto activará el generador automático de reportes **Cypress Mochawesome Reporter**, el cual devolverá un archivo .html listo para visualizar los resultados en cualquier navegador, suplementando los datos arrojados por las pruebas con gráficos y filtros customizables.
+Por último, si el usuario desea visualizar de manera más sencilla y didáctica los resultados de las pruebas contenidas en el Test Suit, podrá ejecutar en su terminal el comando "npm run cypress". Esto activará el generador automático de reportes **Cypress Mochawesome Reporter**, el cual devolverá un archivo .html listo para visualizar los resultados en cualquier navegador, suplementando los datos arrojados por las pruebas con gráficos y filtros customizables. El reporte generado podrá encontrarse en la ruta .\cypress\reports\html\index.html
 
 Ante cualquier duda sobre la ejecución de **CYPRESS**, se recomienda recurrir a la documentación oficial en https://docs.cypress.io/guides/overview/why-cypress
 
